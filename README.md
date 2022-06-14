@@ -9,7 +9,7 @@ const Marcelo = {
   pronouns: "her",
   code: [Javascript, HTML, CSS, ASP.net, C#, VisualBasic 6 ],
   tools: [React, Visual Studio, SQL Server],
- challenge: "I am doing my own tutorial react"
+ challenge: "I am doing my first skills on solidity"
 }
 ```
 
