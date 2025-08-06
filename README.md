@@ -15,6 +15,7 @@
 ![GitHub](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 ![GitHub](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+![GitHub](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 
 
