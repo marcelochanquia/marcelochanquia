@@ -17,6 +17,7 @@
 ![GitHub](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
 ![GitHub](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
+![GitHub](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
 
 
 
