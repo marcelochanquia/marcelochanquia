@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub](https://img.shields.io/badge/Code-Python-yellow?style=flat-square&logo=python)
-![GitHub](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen)
+![GitHub](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 
 
