@@ -13,6 +13,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
+![GitHub](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 
 
 
