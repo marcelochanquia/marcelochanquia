@@ -11,13 +11,14 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
+![GitHub](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 ![GitHub](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
 ![GitHub](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![GitHub](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
-![GitHub](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
+
 
 
 
